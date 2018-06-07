@@ -33,25 +33,25 @@
 }
 
 .mail {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-mail-off.png) no-repeat;
+  background: url("../img/header/icon-mail-off.png") no-repeat;
   width: 11px;
   height: 13px;
 }
 
 .header1__addres__1:hover>.mail {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-mail-on.png) no-repeat;
+  background: url("../img/header/icon-mail-on.png") no-repeat;
   width: 11px;
   height: 13px;
 }
 
 .tel {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-tel-off.png) no-repeat;
+  background: url("../img/header/icon-tel-off.png") no-repeat;
   width: 11px;
   height: 13px;
 }
 
 .header1__addres__2:hover>.tel {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-tel-on.png) no-repeat;
+  background: url("../img/header/icon-tel-on.png") no-repeat;
   width: 11px;
   height: 13px;
 }
@@ -73,14 +73,14 @@
 }
 
 .facebook {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-facebook-off.png) no-repeat;
+  background: url("../img/header/icon-facebook-off.png") no-repeat;
   background-position: center;
   width: 11px;
   height: 11px;
 }
 
 .facebook:hover {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-facebook-on.png) no-repeat;
+  background: url("../img/header/icon-facebook-on.png") no-repeat;
   background-position: center;
   background-color: #4668b3;
   width: 11px;
@@ -88,14 +88,14 @@
 }
 
 .google {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-google-off.png) no-repeat;
+  background: url("../img/header/icon-google-off.png") no-repeat;
   background-position: center;
   width: 11px;
   height: 11px;
 }
 
 .google:hover {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-google-on.png) no-repeat;
+  background: url("../img/header/icon-google-on.png") no-repeat;
   background-position: center;
   background-color: #de5745;
   width: 11px;
@@ -103,14 +103,14 @@
 }
 
 .twitter {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-twitter-off.png) no-repeat;
+  background: url("../img/header/icon-twitter-off.png") no-repeat;
   background-position: center;
   width: 11px;
   height: 11px;
 }
 
 .twitter:hover {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-twitter-on.png) no-repeat;
+  background: url("../img/header/icon-twitter-on.png") no-repeat;
   background-position: center;
   background-color: #2fbbed;
   width: 11px;
@@ -118,14 +118,14 @@
 }
 
 .pinterest {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-pinterest-off.png) no-repeat;
+  background: url("../img/header/icon-pinterest-off.png") no-repeat;
   background-position: center;
   width: 11px;
   height: 11px;
 }
 
 .pinterest:hover {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-pinterest-on.png) no-repeat;
+  background: url("../img/header/icon-pinterest-on.png") no-repeat;
   background-position: center;
   background-color: #d94348;
   width: 11px;
@@ -133,14 +133,14 @@
 }
 
 .behance {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-behance-off.png) no-repeat;
+  background: url("../img/header/icon-behance-off.png") no-repeat;
   background-position: center;
   width: 11px;
   height: 11px;
 }
 
 .behance:hover {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-behance-on.png) no-repeat;
+  background: url("../img/header/icon-behance-on.png") no-repeat;
   background-position: center;
   background-color: #3079ff;
   width: 11px;
@@ -148,14 +148,14 @@
 }
 
 .dribbble {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-dribbble-off.png) no-repeat;
+  background: url("../img/header/icon-dribbble-off.png") no-repeat;
   background-position: center;
   width: 11px;
   height: 11px;
 }
 
 .dribbble:hover {
-  background: url(/Users/keita/Desktop/reen/img/header/icon-dribbble-on.png) no-repeat;
+  background: url("../img/header/icon-dribbble-on.png") no-repeat;
   background-position: center;
   background-color: #eb6397;
   width: 11px;
@@ -176,7 +176,7 @@
 }
 
 .site__logo {
-  background: url(/Users/keita/Desktop/reen/img/header/logo.png) no-repeat;
+  background: url("../img/header/logo.png") no-repeat;
   width: 161px;
   height: 40px;
 }
@@ -262,7 +262,7 @@
 
 .section1 {
   height: 880px;
-  background-image: url(/Users/keita/Desktop/reen/img/main/keyvisual.jpg);
+  background-image: url("../img/main/keyvisual.jpg");
   text-align: center;
 }
 
@@ -410,11 +410,11 @@
 }
 
 .main-1 {
-  background: url(/Users/keita/Desktop/reen/img/main/work-main-1.jpg) no-repeat;
+  background: url("../img/main/work-main-1.jpg") no-repeat;
 }
 
 .main-2 {
-  background: url(/Users/keita/Desktop/reen/img/main/work-main-2.jpg) no-repeat;
+  background: url("../img/main/work-main-2.jpg") no-repeat;
 }
 
 .hover {
@@ -490,19 +490,19 @@
 }
 
 .work__sub__1 {
-  background: url(/Users/keita/Desktop/reen/img/main/work-sub-1.jpg) no-repeat;
+  background: url("../img/main/work-sub-1.jpg") no-repeat;
 }
 
 .work__sub__2 {
-  background: url(/Users/keita/Desktop/reen/img/main/work-sub-2.jpg) no-repeat;
+  background: url("../img/main/work-sub-2.jpg") no-repeat;
 }
 
 .work__sub__3 {
-  background: url(/Users/keita/Desktop/reen/img/main/work-sub-3.jpg) no-repeat;
+  background: url("../img/main/work-sub-3.jpg") no-repeat;
 }
 
 .work__sub__4 {
-  background: url(/Users/keita/Desktop/reen/img/main/work-sub-4.jpg) no-repeat;
+  background: url("../img/main/work-sub-4.jpg") no-repeat;
 }
 
 .hover__2 {
@@ -622,22 +622,22 @@
 
 .footer__section1__box__img{
   display: inline-block;
-  background: url(/Users/keita/Desktop/reen/img/footer/thumb-1.jpg) no-repeat;
+  background: url("../img/footer/thumb-1.jpg") no-repeat;
 }
 
 .footer__section1__box__img__2 {
   display: inline-block;
-  background: url(/Users/keita/Desktop/reen/img/footer/thumb-2.jpg) no-repeat;
+  background: url("../img/footer/thumb-2.jpg") no-repeat;
 }
 
 .footer__section1__box__img__3 {
   display: inline-block;
-  background: url(/Users/keita/Desktop/reen/img/footer/thumb-3.jpg) no-repeat;
+  background: url("../img/footer/thumb-3.jpg") no-repeat;
 }
 
 .footer__section1__box__img__4 {
   display: inline-block;
-  background: url(/Users/keita/Desktop/reen/img/footer/thumb-4.jpg) no-repeat;
+  background: url("../img/footer/thumb-4.jpg") no-repeat;
 }
 
 .hover__3 {
@@ -725,13 +725,13 @@
 .footer__section1__addres__icon__address {
   display: inline-block;
   padding-right: 10px;
-  background: url(/Users/keita/Desktop/reen/img/footer/icon-address-off.png) no-repeat;
+  background: url("../img/footer/icon-address-off.png") no-repeat;
   width: 11px;
   height: 13px;
 }
 
 .footer__section1__addres__icon__tel {
-  background: url(/Users/keita/Desktop/reen/img/footer/icon-tel-off.png) no-repeat;
+  background: url("../img/footer/icon-tel-off.png") no-repeat;
   display: inline-block;
   padding-right: 10px;
   width: 11px;
@@ -739,7 +739,7 @@
 }
 
 .footer__section1__addres__icon__mail {
-  background: url(/Users/keita/Desktop/reen/img/footer/icon-mail-off.png) no-repeat;
+  background: url("../img/footer/icon-mail-off.png") no-repeat;
   display: inline-block;
   padding-right: 10px;
   width: 11px;
@@ -747,19 +747,19 @@
 }
 
 .footer__section1__addres__box__address:hover>.footer__section1__addres__icon__address {
-  background: url(/Users/keita/Desktop/reen/img/footer/icon-address-on.png) no-repeat;
+  background: url("../img/footer/icon-address-on.png") no-repeat;
   width: 11px;
   height: 13px;
 }
 
 .footer__section1__addres__box__tel:hover>.footer__section1__addres__icon__tel {
-  background: url(/Users/keita/Desktop/reen/img/footer/icon-tel-on.png) no-repeat;
+  background: url("../img/footer/icon-tel-on.png") no-repeat;
   width: 11px;
   height: 13px;
 }
 
 .footer__section1__addres__box__mail:hover>.footer__section1__addres__icon__mail {
-  background: url(/Users/keita/Desktop/reen/img/footer/icon-mail-on.png) no-repeat;
+  background: url("../img/footer/icon-mail-on.png") no-repeat;
   width: 11px;
   height: 13px;
 }
